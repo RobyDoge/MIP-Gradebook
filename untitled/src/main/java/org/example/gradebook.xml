@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gradebook>
+    <student name="Ana Maria"/>
+    <teacher name="John Doe"/>
+    <course name="English" teacherName="John Doe"/>
+    <course name="Mathematics" teacherName="John Doe"/>
+    <studentCourse courseName="English" studentName="Ana Maria"/>
+    <studentCourse courseName="Mathematics" studentName="Ana Maria"/>
+    <grade course="English" date="18 1 2024" student="Ana Maria" value="5"/>
+    <grade course="Mathematics" date="5 3 2023" student="Ana Maria" value="10"/>
+</gradebook>
